@@ -17,6 +17,8 @@ struct Cell: View {
             Spacer()
             Text(value).monospaced().foregroundColor(.gray)
         }
+        .minimumScaleFactor(0.01)
+        .lineLimit(1)
     }
 }
 
