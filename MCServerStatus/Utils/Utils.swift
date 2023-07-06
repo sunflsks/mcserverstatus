@@ -36,7 +36,7 @@ struct ServerStatus : Codable {
     
     let motd: MOTD?
     
-    let players: Players?
+    let players: Players
     
 }
 

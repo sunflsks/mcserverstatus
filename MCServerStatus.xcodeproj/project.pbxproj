@@ -13,6 +13,8 @@
 		357521672A5726240090BEA7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 357521662A5726240090BEA7 /* Preview Assets.xcassets */; };
 		3575216E2A572C8C0090BEA7 /* ResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3575216D2A572C8C0090BEA7 /* ResultsView.swift */; };
 		357521712A572EF90090BEA7 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357521702A572EF90090BEA7 /* Utils.swift */; };
+		357521732A574F560090BEA7 /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357521722A574F560090BEA7 /* Cell.swift */; };
+		357521752A5756420090BEA7 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357521742A5756420090BEA7 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		357521662A5726240090BEA7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3575216D2A572C8C0090BEA7 /* ResultsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsView.swift; sourceTree = "<group>"; };
 		357521702A572EF90090BEA7 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		357521722A574F560090BEA7 /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
+		357521742A5756420090BEA7 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				3575216D2A572C8C0090BEA7 /* ResultsView.swift */,
 				357521632A5726230090BEA7 /* Assets.xcassets */,
 				357521652A5726240090BEA7 /* Preview Content */,
+				357521722A574F560090BEA7 /* Cell.swift */,
+				357521742A5756420090BEA7 /* WebView.swift */,
 			);
 			path = MCServerStatus;
 			sourceTree = "<group>";
@@ -153,6 +159,8 @@
 			files = (
 				357521622A5726230090BEA7 /* ContentView.swift in Sources */,
 				3575216E2A572C8C0090BEA7 /* ResultsView.swift in Sources */,
+				357521732A574F560090BEA7 /* Cell.swift in Sources */,
+				357521752A5756420090BEA7 /* WebView.swift in Sources */,
 				357521602A5726230090BEA7 /* MCServerStatusApp.swift in Sources */,
 				357521712A572EF90090BEA7 /* Utils.swift in Sources */,
 			);
